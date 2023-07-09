@@ -6,16 +6,12 @@
 
 # Who Am I?
 
-My Site : https://hyun8941.github.io/
-
-Name : Hi My Name is Hyun Discord Hyun#1111 <519071486607097867>
-
-Birth : I was born on August 23, 2006 in very hot weather!
-
 Location : Republic Of Korea
 
-Favorite Lang : JS, HTML, CSS, Lua, Py, C+, C#, Korean (xD)
+Launguage : En, Ko
 
-Favorite Color : #faa0ad
+Favorite Lang : Lua, Python, JS 
 
-Hyun's Hope : I want to make a very nice site and let people know!
+My Goal : Make everything I want to make
+
+Contact : Discord ID Hyun8941 <519071486607097867>
